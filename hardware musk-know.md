@@ -5,12 +5,12 @@
     - 资源重点：
       1.	GPIO
       2.	定时器
-        1.	基本定时
-        2.	PWM输出
-        3.	输入捕获
-        4.	ETR计数
-        5.	Encoder模式
-        6.	Dead Zone  *
+            - 基本定时
+            - PWM输出
+            - 输入捕获
+            - ETR计数
+            - Encoder模式
+            - dead Zone  *
       3.	ADC/DAC
       4.	DMA
       5.	NVIC
