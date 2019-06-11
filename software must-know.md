@@ -27,6 +27,7 @@
 > 具体阅读方法是：先找几篇热门的paper,对不懂的地方或者感兴趣的地方顺着Reference沿着读
 
 ##### repo代码阅读
+- [LearningRobotics](https://github.com/shallowtoil/LearningRobitics)
 - [RoboJackets](https://github.com/RoboJackets/robocup-software)
 - [ULTRA-robosoccer](https://github.com/utra-robosoccer/soccer-matlab)
 - [nubot-nudt](https://github.com/nubot-nudt/nubot_ws)
